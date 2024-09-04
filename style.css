@@ -303,7 +303,7 @@ html,body{
   }
   
   .profile-container {
-    text-align: center;
+     text-align: center;
       position: fixed; /* Fix the position of the profile container */
       top: 50%;
       left: 50%;
